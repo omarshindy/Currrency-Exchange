@@ -1,8 +1,9 @@
 
 # Hi, I'm Omar Shindy 
-Assistant Lecturer/Software Engineer applying for Data Engineer position @Breadfast.
+Assistant Lecturer/Software Engineer/Data Engineer.
 
-In this repo you will find the basic instructions needed to run the task shared earlier.
+In this repo you will find the basic instructions needed to run this project.
+The project idea is mainly focused on showing my Data Engineering skills, the project is about extracting data from third party api and building data lake using ETL basic process.
 
 
 ## Setting up the development environment
